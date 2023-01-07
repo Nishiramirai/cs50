@@ -1,0 +1,8 @@
+{
+    "gitdoc.enabled": true,
+    "files.associations": {
+        "string.h": "c",
+        "float.h": "c",
+        "limits.h": "c"
+    }
+}
