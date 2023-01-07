@@ -1,4 +1,0 @@
-1. Get the user input and store it inside int variable(n), input must be positive integer in range 1-8 ;
-2. Make for loop, that will be done n times and will be representing lines
-    3. Inside for loop, make another for loop, that will be printing empty characters and hashs within one line
-    4. After each iteration of foor loop, you need to print "\n" to go to the next line
